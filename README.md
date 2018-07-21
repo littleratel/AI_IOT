@@ -1,2 +1,5 @@
-# AIPlusIOT
-This is an intelligent speech interaction software based on Baidu DuerOs system, and one can operate his or her hardware device by voice.
+
+
+WakeUpImpl.java 中设置唤醒词；
+DcsFramework.java 中设置拦截，兴趣点检测与处理；
+
